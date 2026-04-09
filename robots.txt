@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://localbiznez.github.io/cherry-heights-livin-77935/sitemap.xml
